@@ -1,5 +1,10 @@
-geekorandom
+GeekoRandom
 ===========
 
-used for generating random tests from links in geeksforgeeks.org from the terminal
-* currently work in progress
+**Description**  
+Generate random tests from [GeeksForGeeks][1] directly from the terminal.
+
+**Requirements**
+ - Python2
+
+[1]:http://www.geeksforgeeks.org/
